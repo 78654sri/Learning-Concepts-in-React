@@ -1,4 +1,4 @@
-## to show screen conditionally
+## to show UI conditionally
 
 1.if/else
 2.ternary operator
