@@ -9,6 +9,7 @@ export const Heading2 = ()=>{
     return(
         <>
         <h1>heading 2</h1>
+        <h1>heading 2</h1>
         </>
     )
 }
