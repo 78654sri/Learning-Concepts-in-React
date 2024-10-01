@@ -8,3 +8,10 @@
 
 1.default exports 
 2.Named Exports
+
+## Array Methods
+
+1.map
+2.filter
+3.foreach
+4.reduce
