@@ -1,0 +1,28 @@
+.header{
+    display:flex;
+    justify-content:space-between;
+    border: 1px solid #ccc;order:1px solid black;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    
+}
+.logo{
+    width:150px;
+    height:150px;
+}
+.nav-items,ul{
+    display:flex;
+    list-style: none;
+ 
+}
+
+.nav-items,ul,li{
+    padding:20px;
+    margin:10px;
+    font-size:30px;
+    color:purple;
+    
+}
+.nav-items li:hover {
+    color: #007bff;
+    cursor: pointer;
+}
