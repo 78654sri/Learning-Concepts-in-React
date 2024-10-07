@@ -1,0 +1,40 @@
+/* Basic styles for the restaurant card */
+.res-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    width: 300px;
+    padding: 16px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+ 
+}
+.Container{
+    display:flex;
+    flex-wrap:wrap;
+    gap:30px;
+}
+
+.res-logo {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+}
+
+
+.res-card h2 {
+    font-size: 1.5rem;
+    margin: 12px 0;
+    color: #333;
+}
+
+.res-card h3 {
+    font-size: 1rem;
+    margin: 4px 0;
+    color: #777;
+}
+.res-card:hover{
+    cursor:pointer;
+    border: 1px solid #fff;
+    
+}
