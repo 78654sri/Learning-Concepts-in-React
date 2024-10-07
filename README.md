@@ -1,6 +1,6 @@
 ## to show UI conditionally
 
-1.if/else
+1.ifelse
 2.ternary operator
 3.shor circuit/logical oprator
 
@@ -15,29 +15,32 @@
 2.filter
 3.foreach
 4.reduce
+
+
 ## components
 
-1.comosition componenets
-2.nested components
+1. Composition Components
+2. Nested Components
 
 ## React Hooks
 
-(Normal js Utility Functions)
-1.useState()  (local state variable which is acessible in that component only)
-2.useEffect
-   1.with out dependency array the useeffect will rerender on every load.
-   2.with dependency array the useeffect just call initially.
+(Normal JavaScript Utility Functions)
+1. useState() - Local state variable which is accessible in that component only.
+2. useEffect
+   1. Without dependency array, the useEffect will re-render on every load.
+   2. With dependency array, the useEffect just calls initially.
 
-## axios Api call
+## Axios API Call
 
-1. called swiggy Api useing axios 
+1. Called Swiggy API using Axios. 
 
-## Search functionality
+## Search Functionality
 
-for building this i have used filter method,usesatate for storing filtered data
+For building this, I have used the filter method and useState for storing filtered data.
 
 ## React Router
 
-1.createBrowsweRouter is used for building router system
-2.outlet is used for child routes
-3.for dynamic routing used useParams
+1. createBrowserRouter is used for building the router system.
+2. Outlet is used for child routes.
+3. For dynamic routing, use useParams.
+
